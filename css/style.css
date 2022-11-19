@@ -1,0 +1,21 @@
+
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.men{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.women{
+    width: 200px;
+    height: 200px;
+    background-color:red;
+}
+.children{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
